@@ -1,0 +1,2 @@
+# Hierarchical-Clustering
+Hierarchical Clustering Using Scipy In this notebook, we will be using Scipy to make dendograms. The notebook gives the basic steps to realise a dendrogram from a numeric matrix. Let’s describe a few customisation that you can easily apply to your dendrogram based on the car dataset which contains different attributes like model, mpg, gear and other features related to cars.
